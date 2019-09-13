@@ -14,7 +14,7 @@ This runs with kde
 
 
 # TODO
-Put github config into ~/.config/conky/github_token    
+Put github token into ~/.config/conky/github_token    
 Test if this actually still works, or find a way to make it work  
 Upload screen background picture, the conky colours are matching it  
 Fix the sed and awk commands to always display the weather nicely  
